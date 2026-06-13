@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tvisha</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate AI /ML engineer from India</h3>
 
-- 👯 I’m looking to collaborate on **Web development**
+- 👯 I’m looking to collaborate on **AI /ML development**
 
-- 🤝 I’m looking for help with **Web development**
+- 🤝 I’m looking for help with **AI /ML development**
 
-- 💬 Ask me about **Web developer**
+- 💬 Ask me about **AI /ML developer**
 
 - 📫 How to reach me **gamitwisha@gmail.com**
 
